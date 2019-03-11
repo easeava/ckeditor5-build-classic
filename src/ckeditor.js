@@ -73,6 +73,9 @@ ClassicEditor.builtinPlugins = [
 
 // Editor configuration.
 ClassicEditor.defaultConfig = {
+	alignment: {
+		options: [ 'left', 'center', 'right' ]
+	},
 	fontFamily: {
 		options: [
 			'default',
