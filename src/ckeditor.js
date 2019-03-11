@@ -79,6 +79,11 @@ ClassicEditor.defaultConfig = {
 	fontFamily: {
 		options: [
 			'default',
+			'default',
+			'微软雅黑',
+			'黑体',
+			'宋体',
+			'楷体',
 			'Arial, Helvetica, sans-serif',
 			'Courier New, Courier, monospace',
 			'Georgia, serif',
