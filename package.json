@@ -87,5 +87,11 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^11.0.0",
+    "@ckeditor/ckeditor5-font": "^11.0.0",
+    "@ckeditor/ckeditor5-highlight": "^11.0.0",
+    "@ckeditor/ckeditor5-markdown-gfm": "^11.0.0"
   }
 }
